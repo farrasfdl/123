@@ -1,0 +1,16 @@
+[
+    {
+        "university": "Politeknik Negeri Semarang",
+		"logo": "images/polines-logo.png",
+        "major": "D3 - Teknik Elektronika",
+        "year": "2022 - 2025",
+        "description": "GPA 3.53 of 4.0;This program shares some similarities with vocational high school (SMK) curricula, but offers more in-depth study, particularly in the field of low-current electrical systems. It covers topics such as PLC operation, programming, maintenance and repair of electronic systems, and PCB design. "
+    },
+    {
+        "university": "SMK N 1 Semarang",
+		"logo": "images/logo-smk1.png",
+        "major": "Teknik Audio Video",
+        "year": "2019 - 2022",
+        "description": "This program equips students with a solid foundation in audio-video concepts, low-current electrical systems, maintenance and servicing procedures for audio-video systems, as well as the development and assembly of electronic devices."
+    }
+]

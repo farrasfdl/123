@@ -1,0 +1,21 @@
+[
+    {
+        "title": "Prototype System Air Quailty Based on IoT With Sensor Mq135",
+        "year": "2024",
+        "fund": "Rp 100.000",
+        "partner": "Abelya Dwi Cahyani",
+        "role": "Lead Engineer",
+        "description": "Developed a prototype for monitoring air quality and humidity in a room",
+        "image": "images/projectkualitas.jpg",
+        "link": "https://example.com/solar-water"
+    },
+    {
+        "title": "Prototype System automatic railway crossing system based on pid with hcsr sensor",
+        "year": "2025",
+        "partner": "Amir,Kamal,Sindhy",
+        "role": "Mechanical",
+        "description": "Developed a prototype for a crossing if a vehicle passes the sensor then the barrier gate will close slowly and if no vehicles pass then the barrier gate will close immediately.",
+        "image": "images/coming_project.jpeg",
+        "link": "https://example.com/assembly-optimization"
+    }
+]

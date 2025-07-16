@@ -1,0 +1,16 @@
+[
+    {
+        "company": "CV. Sirobo Indonesia",
+		"logo":"images/logo-Sirobo.png",
+        "position": "Research and Development",
+        "year": "September 2024 - Desember 2024",
+        "description": "Responsible for learning and developing projects assigned by the company, as well as designing models for the given projects."    },
+	
+	{
+        "company": "TCL Electronics",
+		"logo":"images/tcl-logo.png",
+        "position": "Teknisi Lapangan",
+        "year": "2021-2022",
+        "description": "Responsible for assisting staff with field tasks, including AC, Smart TV installation, site surveys, maintenance and repair. Also supported other duties such as goods delivery and inventory stock-taking."
+    }
+]

@@ -1,0 +1,36 @@
+{
+    "name": "Muhammad Farras Fadhilanaga - College Student On Politeknik Negeri Semarang",
+    "description": "I am a college student of the Diploma 3 (D3) in Electronics Engineering program at Politeknik Negeri Semarang. I am highly motivated and ready to bring positive energy to the professional world. Through my academic background, I have gained a strong understanding of electrical and electronics engineering, along with the practical skills needed to grow and succeed in the industry. I am adaptable, capable of working both independently and as part of a team.",
+    "profileImage": "images/profile_farras.jpeg",
+    "email": "muhammad.farras.fm@gmail.com",
+    "phone": "+62895-3668-83040",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://linkedin.com/in/huda-syafi-i-fauzan-733231318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/farrasfdl"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://instagram.com/farrasfdl_"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cv.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Leadership", "icon": "fas fa-user-tie", "level": 90},
+        {"name": "Industrial Automation System Technician", "icon": "fas fa-microchip", "level": 90},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 70},
+        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 80},
+	{"name": "Public Speaking", "icon": "fas fa-bullhorn", "level": 85},
+	{"name": "Time Management", "icon": "fas fa-stopwatch", "level": 90},
+	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 85},
+    {"name": "Audio Video Tehnician", "icon": "fas fa-tools", "level": 90}
+    ]
+}
